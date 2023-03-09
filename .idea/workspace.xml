@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5e736db-f774-41ff-92e3-11316f17b813" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BitManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConnectedNetwork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DateTimeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DeleteLeaves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EqualSubArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FenwickTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IsomorphicString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LP1326.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LP1326_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LP1329SolveMatrixDiagonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LargestNumberLessThanEqualTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Leaderboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MergeSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ModifiedBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NextGreaterElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProductOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RainWaterTapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RandomDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RectangleOverlap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SegmentTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SetNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SnapshotArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StockPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SumMutatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UnionByRank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VerticalWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/WeirdSum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1004MaxConsecutiveOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1010PairDivisible60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1027LongestArithmeticSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1032StreamOfCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_103BinaryTreeZigZag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1041RobotBounded.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1044LongestDuplicateSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1048LongestStringChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1055ShortestWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1056ConfusingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1060FindMissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1062LongestRepeatingSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1087BraceExpansion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1088ConfusingNumberII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_108SortedArrToBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1101EarliestFriends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1102PathWithMaxMinValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_110BalancedBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1110DeketeNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1125SmallestTeams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1131AbsoluteValueMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1140StoneGameII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1145BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1153StringTransform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1155DiceRollTargetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_115DistinctSubsequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1162FarLand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1167MinCostToConnectSticks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1170CompareStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_117NextRightPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1192CriticalConnections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1209RemoveAdjacentDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1218LongestArithmeticSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1229MeetingScheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1235JobScheduling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1240TilingRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_124BinaryTreeMaxPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1254ClosedIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_125ValidPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1277CountSquareMatrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_128LongestConsecutiveSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1292MaxSideLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1302DeepestLeaveSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1304UniqueSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1306JumpGame3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1311VideosWatched.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1312MinInsertionPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1320MinimumDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1328BreakPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_133CloneGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1351CountNegativeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1366RankTeams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1368MinCostPathValid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1376TimeNeeded.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1377FrogPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_137SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_139WordBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1406StoneGameIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_140WordBreakII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1423MaxPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1438LongestSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1465MaximumAreaCake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1466ReorderRoutes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_146LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1477FindNonOverlapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1483KAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_148SortList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1499MaxValueOfEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_14LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1504CountSubMatrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1506FindRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_150EvaluateRPN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1512NumGoodPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1548MostSimilarPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_158ReadNCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_159LongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1610MaxVisiblePoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1616SplitStringPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_165ComparingVersions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_166FractionReccurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_169MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1706WhereWillBallFall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_173BSTIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_174DungeonGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1776CarFleetII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1778ShortestPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_179LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1834SingleThreadedCCPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_1851MinimumInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_187RepeatedDNA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_189RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_190ReverseBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_198HouseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2013DetectSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_206ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_207CourseSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_208Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_209MinimumSizeSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2101DetonateMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2115Recipes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_211DesignAddWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2158AreaPainted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_220ContainsDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_221MaximalSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_227BasicCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_228SummaryChanges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2311LongestBinarySubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_238ProductArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_23MergeKSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2402MeetingRooms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2426NumberPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2458HeightOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_246StrobogrammaticNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_24SwapNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_253MeetingRooms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_269AlienOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_26RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_271EncodeDecode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_273IntegerToEnglish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_279PerfectSqaures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_286WallsAndGates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_28SubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_295FindMedianDataStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_296BestMeetingPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_297SerializeTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_299BullsAndCows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_304RangeQuerySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_312BurstBallons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_317ShortesDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_31NextPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_325MaxSizeSubarraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_332ReconstructItinerary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_340LongestStringKDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_347TopKFrequent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_349IntersectionArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_354RussianDollEnvelope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_358RearrangeStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_359LoggerRateLimiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_35FindNumberOccurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_362DesignHitCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_36IsValidSudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_375GuessNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_387FirstUniqueCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_388LongestAbsolutePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_38CountAndSay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_392Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_394DecodeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_396RoateFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_397IntegerReplacement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_403FrogJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_406QueueReconstruction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_410SplitArrayLargestSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_412FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_418SetenceScreenFiltering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_41FirstMissingPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_426BSTToDLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_452MinimumArrows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_459RepeatedSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_465OptimalAccountBalancing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_46Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_46Permutation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_480SlidingWindowMedian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_482LicenseKeyFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_4MedianOfSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_50Pow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_524LongestWordDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_525ContiguousArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_535TinyUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_539MinimumTimeDiff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_53MaximumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_542Matrix01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_54SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_560SubArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_567PermutationString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_57InsertInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_58LengthLastWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_593ValidSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_604CompressedStringIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_621TaskScheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_642DesignAutoComplete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_642DesignAutoComplete1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_658FindKClosest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_659SplitArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_65ValidNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_669TrimBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_66PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_671SecondMinBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_67AddBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_68TextJustification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_690EmployeeImoprtance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_692TopKFrequent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_695MaxArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_70ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_715RangeModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_721AccountMerge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_727MinWindowSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_72EditDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_731MyCalendar2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_732MyCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_735AsteroidCollision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_737SentenceSimliarity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_752OpenLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_758BoldWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_759EmployeeFreeTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_767RearrangeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_76MinimumWindowString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_772BasicCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_777SwapAdjacentLR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_79WordSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_7ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_809ExpressiveWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_817LinkedListComponents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_818RaceCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_843GuessTheWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_844BackSpaceString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_846HandOfStraights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_84LargestRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_850RectangleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_853CarFleet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_856ScoreOfParanthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_875KokoBananas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_886PossibleBipartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_8ATOI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_900RLEIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_901StockSpan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_905SortArrayByParity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_907SumSubarrayMinimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_919CompleteBinaryTreeInserter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_91DecodeWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_949MaxTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_963MinAreaRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_967SameConsecutiveDiff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_975OddEvenJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_979DistributeCoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_986IntervalListIntersection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_992SubArrayKIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_9PalindromNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/__1138AlphabetBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/input.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="jiorpxa7" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MjpD3IEX4aMKuVIab8OLJJdXN2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/chandan/Documents/MyCode/src/main/java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application._975OddEvenJump">
+    <configuration name="_4MedianOfSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4MedianOfSortedArrays" />
+      <module name="MyCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_975OddEvenJump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_975OddEvenJump" />
+      <module name="MyCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._975OddEvenJump" />
+        <item itemvalue="Application._4MedianOfSortedArrays" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5e736db-f774-41ff-92e3-11316f17b813" name="Changes" comment="" />
+      <created>1678290724700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678290724700</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_975OddEvenJump.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
